@@ -1,8 +1,8 @@
 +++
-avatar = ""
+avatar = "/images/profile_pic.png"
 bio = ""
 draft = true
-featured = false
+featured = true
 title = "Jens Edler"
 [[social]]
 title = "Twitter"
