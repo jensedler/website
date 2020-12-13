@@ -1,7 +1,6 @@
 +++
 avatar = "/images/profile_pic.png"
 bio = ""
-draft = true
 featured = true
 title = "Jens Edler"
 [[social]]
